@@ -5,16 +5,16 @@ export default function Screen() {
     return (
         <div className="screen">
             <iframe 
-                title='Reds Game'
+                title='UFC 264'
                 allow='encrypted-media'
-                width='640'
-                height='360'
+                width='800'
+                height='450'
                 marginWidth='0'
                 marginHeight='0' 
                 scrolling='no'
-                frameborder='0' 
-                allowFullscreen='yes'
-                src='//sportsbay.org/embed/108629/1/cincinnati-reds-kansas-city-royals-live.html'
+                frameBorder='0' 
+                allowFullScreen='yes'
+                src='//sportsbay.org/embed/112574/1/scottish-open-live.html'
             />
         </div>
     )
